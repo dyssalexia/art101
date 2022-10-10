@@ -1,12 +1,3 @@
-
-
-p{
- color: purple;
- font-weight: bold;
-}
-
-#callout {
-background-color: #bec8e3;
-padding: 20px;
-border: solid 1px black;
+#mypicture {
+    width: 500px;
 }
