@@ -1,3 +1,57 @@
-#mypicture {
-    width: 500px;
+body {
+ background-image: url("https://i.pinimg.com/564x/60/55/45/605545c7c9d34325626cbb55ab6dc026.jpg");
+ background-color: #cccccc;
 }
+
+
+#mypicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#section1 {
+  color: #BD1313;
+  font-size: 125%;
+  text-align: center;
+  background-color: #DF3568;
+  padding: 1px;
+  margin: 25px;
+  border-radius: 10px;
+  font-family: helvetica;
+  }
+
+#section2 {
+  font-family: helvetica;
+  text-align: center;
+  color: #DF3568;
+  background-color: black;
+  padding: 1px;
+  margin: 2px;
+  border-radius:5px;
+  }
+
+#section3 {
+  color: #ECECD2;
+  font-size: 125%;
+  text-align: center;
+  background-color: #5ed331;
+  padding: 1px;
+  margin: 25px;
+  border-radius:5px;
+  font-family: helvetica;
+  }
+
+#assignments {
+  color: #5ed331;
+  font-size: 175%;
+  text-align: center;
+  background-color: black;
+  padding: 1px;
+  margin: 25px;
+  border-radius:0px;
+  font-family: helvetica;
+  font-weight: bolder;
+  }
