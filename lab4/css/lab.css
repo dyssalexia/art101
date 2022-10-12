@@ -1,5 +1,6 @@
 body {
  margin: auto;
+ text-align: center;
  background-image: url("https://i.pinimg.com/564x/71/c3/d7/71c3d72d2eb35afb628f5eb4386438ce.jpg");
  background-color: #cccccc;
 }
@@ -86,6 +87,13 @@ p{
   margin-left: 250px;
   margin-right: 250px;
   color: white;
+  text-align: left;
   background-color: #58748D;
   border-radius: 20px;
+}
+
+.results img{
+  width: 500px;
+  height: auto;
+  margin-top: 20px;
 }
