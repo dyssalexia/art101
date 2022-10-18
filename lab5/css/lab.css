@@ -1,0 +1,75 @@
+body{
+  margin: 30px;
+  background-image: url(https://i.pinimg.com/564x/19/2f/3b/192f3b11e1b0c335c149b2e18b034987.jpg);
+  font-family: helvetica;
+  color: white
+}
+
+h1{
+  text-align: center;
+  font-size: 32px;
+  margin-left: 150px;
+  margin-right: 100px;
+  background-color: black;
+  border-radius: 20px;
+  padding:10px;
+}
+
+h2{
+  margin-left: 150px;
+  background-color: black;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 24px;
+  max-width: 600px;
+}
+
+p{
+  margin-left: 150px;
+  max-width: 600px;
+  font-size: 18px;
+}
+
+.results h3{
+  margin-left: 140px;
+  text-align: center;
+  max-width: 600px;
+  background-color: black;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.results p{
+  margin-left: 150px;
+  text-align: center;
+  max-width: 600px;
+}
+
+.results img{
+  margin-left: 150px;
+  text-align: center;
+}
+
+.results h5{
+  font-style: italic;
+  background-color: black;
+  margin-left: 150px;
+  text-align: center;
+  max-width: 600px;
+  padding: 5px;
+  border-radius: 20px;
+}
+.output{
+  font-size: 15px;
+  float: right;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.car-image{
+  float: right;
+  margin-right: 10px;
+  padding: 15px;
+  background-color: black;
+  border-radius: 20px;
+}
