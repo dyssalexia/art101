@@ -14,7 +14,7 @@ function scrambleUserName(inputName) {
 
   return sortedName;
 }
-// Attach an event listener to your button that gets the value of the niput field, Runs that value through your sort() or anagram() function and saves the results.
+// Attach an event listener to your button that gets the value of the input field, Runs that value through your sort() or anagram() function and saves the results.
 
 var buttonEl = document.getElementById("my-button");
 
