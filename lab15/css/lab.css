@@ -35,7 +35,7 @@ color:#3C3744;
 }
 
 .breadman{
-  visibility: visible;
+  visibility: hidden;
   margin: auto;
   text-align: center;
   margin-top: 30px;
@@ -63,7 +63,7 @@ color:#3C3744;
   transition: 0.4s;
 }
 
-#activate: hover {
+#activate:hover {
   background-color: black;
   color: #DDA77B;
   transition: 0.4s;
